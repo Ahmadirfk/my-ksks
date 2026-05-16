@@ -1,0 +1,22 @@
+# 📦 Split ZIP Archive
+
+**Original File:** gAAAAABqCGE4_pxY2Cm94Ba89-cg2BFmIsqR_IFAObUYm6VUFC27tKN-AaG9u8RhYWResheFEK9g_7Pv2XY-wMpQk6k_5R4-91Os_IdKUa4HW9OKuZaozaW7puPT9PrXb7ZZwbygLNu9.zip
+**Parts:** 6
+
+## 🔧 How to Join & Extract
+
+### 🖥️ Windows
+1. Run `join.bat`
+2. Extract `gAAAAABqCGE4_pxY2Cm94Ba89-cg2BFmIsqR_IFAObUYm6VUFC27tKN-AaG9u8RhYWResheFEK9g_7Pv2XY-wMpQk6k_5R4-91Os_IdKUa4HW9OKuZaozaW7puPT9PrXb7ZZwbygLNu9.zip` with 7-Zip or WinRAR
+
+### 🍎 Mac / 🐧 Linux
+```bash
+bash join.sh
+unzip gAAAAABqCGE4_pxY2Cm94Ba89-cg2BFmIsqR_IFAObUYm6VUFC27tKN-AaG9u8RhYWResheFEK9g_7Pv2XY-wMpQk6k_5R4-91Os_IdKUa4HW9OKuZaozaW7puPT9PrXb7ZZwbygLNu9.zip
+```
+
+### 📱 Android (Termux)
+```bash
+cat gAAAAABqCGE4_pxY2Cm94Ba89-cg2BFmIsqR_IFAObUYm6VUFC27tKN-AaG9u8RhYWResheFEK9g_7Pv2XY-wMpQk6k_5R4-91Os_IdKUa4HW9OKuZaozaW7puPT9PrXb7ZZwbygLNu9.zip.* > gAAAAABqCGE4_pxY2Cm94Ba89-cg2BFmIsqR_IFAObUYm6VUFC27tKN-AaG9u8RhYWResheFEK9g_7Pv2XY-wMpQk6k_5R4-91Os_IdKUa4HW9OKuZaozaW7puPT9PrXb7ZZwbygLNu9.zip
+# Then open with ZArchiver
+```
